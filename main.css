@@ -47,6 +47,11 @@ p{
 img{
     width: 80%;
 }
+/* flexbox */
+  .iconsRight {
+    display: flex;
+    justify-content: flex-end;
+}
 .icon-bar {
     position: fixed;
     top: 50%;
@@ -54,6 +59,7 @@ img{
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
   }
+
   .icon-bar a {
     display: block;
     text-align: center;
@@ -79,8 +85,8 @@ img{
   }
 /* Instagram */
 .fa-instagram {
-    background: rgb(255, 255, 255);
-    color: #983b8c
+    background: #ee55ae;
+    color: white;
   }
   /* Twitter */
 .fa-twitter {

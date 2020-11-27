@@ -4,7 +4,7 @@
      /* background-color: "burnt orange";  */
     /* }  */
 /* affects for background */
-body{ 
+html{ 
     background-image: url("./images/background.jpg");
 }
 h1 {

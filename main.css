@@ -69,11 +69,11 @@ img{
     font-size: 20px;
   }
   .icon-bar a:hover {
-    background-color: #000;
+    background-color: black
   }
   .pill-nav a:hover {
-    background-color: #ddd;
     color: black;
+    background-color: white;   
   }
 .fa {
     padding: 20px;
